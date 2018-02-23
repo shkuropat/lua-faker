@@ -2,7 +2,7 @@ package = "lua-faker"
 version = "scm-1"
 
 source = {
-    url = "git://github.com:shkuropat/lua-faker.git",
+    url = "git://github.com/shkuropat/lua-faker.git",
     branch = 'master',
 }
 
